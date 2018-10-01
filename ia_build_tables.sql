@@ -1,4 +1,4 @@
--- drop objects and test
+-- drop objects
 drop table IA_COMPANY cascade constraints;
 drop table IA_DEPARTMENT cascade constraints;
 drop table IA_PERSONNEL cascade constraints;
